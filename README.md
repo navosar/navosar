@@ -7,4 +7,4 @@ In the past year i learned:<br>
 > CSS<br>
 > JS<br>
 
-My plans for the next year is to learn <p onclick="window.location = 'https://go.dev/'">Go</p>.
+My plans for the next year is to learn Go.
